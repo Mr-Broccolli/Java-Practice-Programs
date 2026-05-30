@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/Language-Java-orange" />&nbsp;&nbsp;<img src="https://img.shields.io/github/repo-size/Mr-Broccolli/Java-Practice-Programs" />&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/Mr-Broccolli/Java-Practice-Programs" />&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/Mr-Broccolli/Java-Practice-Programs?style=social" />
 
 
-\# Java Practice Programs
+# Java Practice Programs
 
 
 
@@ -11,25 +11,25 @@ A structured collection of Java practice programs covering core Java concepts, a
 
 This repository demonstrates learning and practice in:
 
-\- Java fundamentals
+- Java fundamentals
 
-\- Loops, conditionals, and methods
+- Loops, conditionals, and methods
 
-\- Arrays and matrix operations
+- Arrays and matrix operations
 
-\- String manipulation
+- String manipulation
 
-\- Recursion
+- Recursion
 
-\- Sorting algorithms
+- Sorting algorithms
 
-\- Number system conversions
+- Number system conversions
 
-\- Exception handling
+- Exception handling
 
-\- Menu-driven programs
+- Menu-driven programs
 
-\- Mini console projects
+- Mini console projects
 
 
 
@@ -37,7 +37,7 @@ Programs are organized by topic for clarity and progressive learning.
 
 
 
-\## Featured Programs
+## Featured Programs
 
 
 
@@ -45,15 +45,14 @@ Some of the more interesting programs in this repository:
 
 
 
-\- Tic Tac Toe (Mini Projects / Console Games)
+- Tic Tac Toe (Mini Projects / Console Games)
 
-\- Number Guessing Game
+- Number Guessing Game
 
-\- Matrix Sorting Programs
+- Matrix Sorting Programs
 
-\- String Duplicate Removal
+- String Duplicate Removal
 
-\- Smith Number Checker
+- Smith Number Checker
 
-\- Number System Conversions
-
+- Number System Conversions
