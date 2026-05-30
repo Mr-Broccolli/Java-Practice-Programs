@@ -1,4 +1,4 @@
-package Others;
+package NumberBased;
 
 import java.util.*;
 class factor

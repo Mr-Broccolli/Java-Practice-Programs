@@ -9,4 +9,4 @@ PURPOSE OF PROJECT:  fun
 VERSION or DATE:  v1_30.11.2023
 HOW TO START THIS PROJECT:  click the bluej icon dumbo
 AUTHORS:  me :D
-USER INSTRUCTIONS:  none of ur buiseness
+USER INSTRUCTIONS:  none of ur business

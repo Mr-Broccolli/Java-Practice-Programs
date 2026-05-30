@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MaxNum
+comment1.params=x
+comment1.target=MaxNum(int)
+comment2.params=
+comment2.target=void\ accept()
+comment3.params=A\ B
+comment3.target=void\ findMax(MaxNum,\ MaxNum)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=
+comment5.target=void\ main()
+numComments=6
