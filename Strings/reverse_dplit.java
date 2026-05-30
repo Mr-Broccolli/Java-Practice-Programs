@@ -1,6 +1,0 @@
-/* wap to reverse sentence using split
-find the longest word in a sentence
-count vowels in a sentence using split
-accept a sentence and display each word along with frequency
-input a sentence a arrange the words in alphabetical order
-shortest word in a sentence */
