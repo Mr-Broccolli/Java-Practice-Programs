@@ -26,9 +26,9 @@ public class double_array
         }
         
         //printing aray
-        for(i; i<r; i++)
+        for(int o; i<r; i++)
         {
-            for(j; j<c; j++)
+            for(int p; j<c; j++)
             {
                 System.out.print(i); 
             }
